@@ -1,4 +1,4 @@
-# Exemple d'un Router avec Angular 3
+# Exemple d'un Router avec Angular 2
 
 > npm install
 
