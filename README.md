@@ -2,6 +2,8 @@
 
 > npm install
 
+> npm start
+
 > npm run serve
 
 > Essayer d'ajouter d'autres liens
